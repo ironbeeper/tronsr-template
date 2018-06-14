@@ -1,14 +1,14 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: [IronBeeper]
+Role: [Chief]
 
 ## Team Member 1
 
-Name: [name]
-Role: [role]
+Name: [4digits]
+Role: [Master]
 
 ## Team Member 2
 
-Name: [name]
-Role: [role]
+Name: [Barca]
+Role: [King]
